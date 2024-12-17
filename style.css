@@ -1,0 +1,39 @@
+
+  #ours {
+    display: ;
+    color: whitesmoke;
+    width: 100%;
+    margin: auto;
+  }
+  h1{
+    color: rgb(236, 233, 35);
+    display: flex;
+  }
+  #ourmovielist {
+    width: 30%;
+    /* border-right: 1px solid #ccc; */
+    padding: 10px;
+    font-weight: bold;
+    font-family: sans-serif;
+
+  }
+  #ourdetails {
+    width: 70%;
+    padding: 20px;
+  }
+  button {
+    background-color: #c43b19;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  .para{
+    font-family: sans-serif;
+    
+  }
+  
